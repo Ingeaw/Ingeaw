@@ -1,0 +1,75 @@
+
+.jumbotron {
+	padding-top: 30px;
+	background-color:#48d1cc;
+
+}
+.table{
+	width: 50%;
+	position: relative;
+	left: 350px;
+	list-style-type: none;
+
+}
+#pendidikan{
+	background-color: #48d1cc;
+}
+section{
+	padding-top: 200px;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+footer{
+	padding-bottom: 20px;
+}
+section{
+	padding-top: 70px;
+}
+#riwayathidup.row{
+	margin-bottom: 120px;
+
+}
+
+#sosialmedia{
+	background-color: #48d1cc;
+}
+.kotak-service{
+
+	color: white;
+}
+.kotak-service:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.kotak-service .item-service{
+	width: 25%;
+	padding: 20px;
+	
+	float: left;
+	box-sizing: border-box;/*untuk membuat elemen kita tetap didalam kotak*/
+}
+.icon{
+	width: 70px;
+	height: 70px;
+	border: 3px solid;
+	border-radius: 70px;
+	text-align: center;
+	margin: 0 auto;
+	
+
+}
+.item-service h4{
+	margin: 20px 0;
+	text-align: center;
+
+}
+.icon-service{
+	width: 30px;
+	margin-top: 20px;
+}
+h2{
+	text-align: center;
+}
